@@ -1,0 +1,12 @@
+.Cards {
+    padding: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+.imagen{
+    display: flex;
+    justify-content: center;
+}
+.contacto {
+    padding: 50px;
+}
